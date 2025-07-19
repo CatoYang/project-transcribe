@@ -1,0 +1,24 @@
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+.settings/
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Audio/Video/Cache
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.webm
+cache/
+.venv
