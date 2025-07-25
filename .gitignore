@@ -15,6 +15,7 @@ __pycache__/
 Thumbs.db
 
 # Audio/Video/Cache
+data/
 *.wav
 *.mp3
 *.mp4
@@ -22,3 +23,6 @@ Thumbs.db
 *.webm
 cache/
 .venv
+
+# Auth tokens
+pipeline/hf_authtoken.txt
